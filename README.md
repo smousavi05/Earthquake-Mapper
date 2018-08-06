@@ -1,5 +1,8 @@
 # Earthquake_Mpper
-This is a class that creates maps of earthquakes and seismic stations from SQL database. 
+This is a class that can be used of quick mapping of earthquakes and seismic stations from SQL database. 
+
+usage:
+eq_mapper("input_sql_file") 
 
 ![spacial distribution of earthquakes](1.png)
 
