@@ -1,5 +1,5 @@
 # Earthquake_Mpper
-This is a class that can be used of quick mapping of earthquakes and seismic stations from SQL database. 
+This is a class that can be used for a quick mapping of earthquakes and seismic stations from SQL database. 
 
 usage:
 
